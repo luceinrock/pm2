@@ -1,0 +1,47 @@
+[
+  {
+    "HomeownerID": "HO12345",
+    "FirstName": "Alice",
+    "LastName": "Doe",
+    "DOB": "2012-03-15",
+    "Gender": "Female",
+    "PhoneNumber": "+1-555-678-1234",
+    "EmailAddress": "alice.doe@example.com"
+  },
+  {
+    "HomeownerID": "HO67890",
+    "FirstName": "Mark",
+    "LastName": "Smith",
+    "DOB": "1988-10-22",
+    "Gender": "Male",
+    "PhoneNumber": "+1-555-789-2345",
+    "EmailAddress": "mark.smith@example.com"
+  },
+  {
+    "HomeownerID": "HO54321",
+    "FirstName": "Sophia",
+    "LastName": "Johnson",
+    "DOB": "2015-07-11",
+    "Gender": "Female",
+    "PhoneNumber": "+1-555-890-3456",
+    "EmailAddress": "sophia.johnson@example.com"
+  },
+  {
+    "HomeownerID": "HO98765",
+    "FirstName": "James",
+    "LastName": "Davis",
+    "DOB": "2005-05-19",
+    "Gender": "Male",
+    "PhoneNumber": "+1-555-901-4567",
+    "EmailAddress": "james.davis@example.com"
+  },
+  {
+    "HomeownerID": "HO11223",
+    "FirstName": "Emma",
+    "LastName": "Martinez",
+    "DOB": "2010-09-29",
+    "Gender": "Female",
+    "PhoneNumber": "+1-555-123-5678",
+    "EmailAddress": "emma.martinez@example.com"
+  }
+]
